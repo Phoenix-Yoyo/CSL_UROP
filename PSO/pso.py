@@ -75,7 +75,7 @@ def PSO_test_run():
     Feel free to add arguments when initializing algorithm if it is needed.
     	For example: PSO_Algorithm(dimention_of_variable, variable_range)
     """
-    w = 0.7
+    w = 0.5
     c1 = 2
     c2 = 2
     var_max = 10
